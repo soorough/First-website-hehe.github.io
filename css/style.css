@@ -20,3 +20,7 @@ a:hover {
   color: #361500;
   font-size: 110%;
 }
+img{
+  width: 300px;
+  height: auto;
+}
