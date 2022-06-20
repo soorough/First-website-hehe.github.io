@@ -1,0 +1,22 @@
+body{
+  background-color: #9FC088;
+}
+hr{
+  border-style: dotted none none;
+  border-color: white;
+  border-width: 5px;
+  width: 4%;
+}
+/* unvisited link */
+a:link {
+  color: #614124;
+}
+
+a:visited {
+  color: #614124;
+}
+
+a:hover {
+  color: #361500;
+  font-size: 110%;
+}
